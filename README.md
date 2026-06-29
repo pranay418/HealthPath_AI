@@ -4,7 +4,11 @@
 
 HealthPath_AI is an AI-powered healthcare assistant that analyzes medical reports (PDF, image, or manual input) using OCR and rule-based analysis. It identifies possible health conditions and generates personalized daily schedules, diet recommendations, lifestyle tips, and wellness scores to help patients improve their health.
 
-**Keywords:** Artificial Intelligence, OCR, Healthcare, Medical Report Analysis, Wellness Score, Streamlit.
+---
+
+## Keywords
+
+**Artificial Intelligence (AI), Optical Character Recognition (OCR), Healthcare, Medical Report Analysis, Personalized Healthcare, Wellness Score, Streamlit, Python**
 
 ---
 
